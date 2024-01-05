@@ -1,6 +1,4 @@
-# Console-Finances-Analysis
-
-A JavaScript code that analyse the records to calculate profits, increases, decreases and average.
+# Counter-Programme
 
 ## Description
 
