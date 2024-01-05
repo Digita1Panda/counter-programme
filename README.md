@@ -8,19 +8,11 @@ A JavaScript code that analyse the records to calculate profits, increases, decr
 
 [Counter Programme](https://digita1panda.github.io/counter-programme/)
 
-## Installation
-
-N/A
-
 ## Usage
 
 Simple programme to count with increment of 1.
 
 ![Webpage](images/site-screenshot.png)
-
-## Credits
-
-N/A
 
 ## License
 
@@ -40,16 +32,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Features
-
-N/A
-
-## Contributing
-
-## Tests
-
-N/A
-
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Copyright © 2023 K.Law All Rights Reserved.
