@@ -16,7 +16,7 @@ N/A
 
 Simple programme to count with increment of 1.
 
-![Webpage](site-screenshot.png)
+![Webpage](images/site-screenshot.png)
 
 ## Credits
 
